@@ -25,7 +25,7 @@ key 311   BUTTON_R1
 key 314   BUTTON_SELECT # center left button with "overlapping windows" icon. Normally: BUTTON_SELECT
 key 315   BUTTON_START # center right button with "hamburger" icon. Normally: BUTTON_START
 key 316   BUTTON_MODE # big Xbox logo center top button. Normally: BUTTON_MODE
-key 167   BACK # center bottom button with an "eject" icon. Normally: ???
+key 167   SYSRQ # center bottom button with an "eject" icon. Normally: takescreenshot (PRINT_SCREEN)
 key 317   BUTTON_THUMBL # normally: BUTTON_THUMBL
 key 318   BUTTON_THUMBR # normally: BUTTON_THUMBR
 
